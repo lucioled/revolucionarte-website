@@ -20,7 +20,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = "near-black"
-  body_classes = "helvetica bg-near-white"
+  body_classes = "custom_poppins bg-near-white"
   author = ""
   favicon = "/featured/iconLogo.png"
   site_logo = "/featured/iconLogo.png"
