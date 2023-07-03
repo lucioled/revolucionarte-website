@@ -1,4 +1,4 @@
 ---
-featured_image: '/featured/BlackBanner.png'
+featured_image: '/branding/MainBannerFinal.png'
 title: Posts
 ---

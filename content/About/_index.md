@@ -1,6 +1,6 @@
 ---
 title: '¿Quiénes somos?'
-featured_image: '/featured/BlackBanner.png'
+featured_image: '/branding/MainBannerFinal.png'
 ---
 
 # ¿Quiénes somos?
